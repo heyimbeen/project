@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://opentutorials.org/course/1
+[DOC#1196]
+BASEURL=https://www.facebook.com/plugins/like.php?app_id&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df1aef9bd5ee6b56%26domain%3Dopentutorials.org%26origin%3Dhttps%253A%252F%252Fopentutorials.org%252Ff35242fb753e2b%26relation%3Dparent.parent&container_width=0&height=20&href=https%3A%2F%2Fopentutorials.org%2Fcourse%2F1&layout=button_count&locale=ko_KR&sdk=joey&send=true&show_faces=false&width=450&_rdc=1&_rdr
+ORIGURL=https://web.facebook.com/plugins/like.php?app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df1aef9bd5ee6b56%26domain%3Dopentutorials.org%26origin%3Dhttps%253A%252F%252Fopentutorials.org%252Ff35242fb753e2b%26relation%3Dparent.parent&container_width=0&height=20&href=https%3A%2F%2Fopentutorials.org%2Fcourse%2F1&layout=button_count&locale=ko_KR&sdk=joey&send=true&show_faces=false&width=450
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://opentutorials.org/course/1
+IDList=
+IconFile=https://opentutorials.org/static/img/common/favicon/android-icon-192x192.png
+IconIndex=1
