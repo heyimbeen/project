@@ -37,6 +37,6 @@
 		<priority value="info" />
 		<appender-ref ref="console"/>
 	</root>
-	
+	<!-- test -->
 </log4j:configuration>
 
